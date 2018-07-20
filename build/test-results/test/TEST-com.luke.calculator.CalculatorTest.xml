@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.luke.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-19T11:51:30" hostname="devops.luke.lab" time="0.0">
+<testsuite name="com.luke.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-19T12:31:12" hostname="devops.luke.lab" time="0.0">
   <properties/>
   <testcase name="testSum" classname="com.luke.calculator.CalculatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
